@@ -54,7 +54,7 @@
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kajal-mishra/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kajalmishra636@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:kajalmishraa345@gmail.com.com)
 
 ---
 
