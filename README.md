@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F79AC0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+i'am +Kajal!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F79AC0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+i+am +Kajal!" alt="Typing SVG" />
 </p>
 
 ---
