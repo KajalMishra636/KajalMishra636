@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 - 🎓 BSc in IT | Java Certified | Pursuing Full Stack Web Development  
-- 💻 Currently working on **IT Online Tutorials** project  
+- 💻 Currently working on **IT Online Tutorials**  project  
 - 🛠️ Tools: Eclipse, VS Code, Figma, Canva  
 - 🌱 Learning: React, Node.js, MongoDB  
 - 🎯 Goal: To build scalable web solutions and become a tech expert
