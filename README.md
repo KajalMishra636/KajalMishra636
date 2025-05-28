@@ -19,6 +19,20 @@ You said:
 
 ---
 
+## 🧭 Table of Contents
+
+- [📸 Preview](#-preview)
+- [🎯 Project Goal](#-project-goal)
+- [✨ Features](#-features)
+- [🔧 Tech Stack](#-tech-stack)
+- [🧠 What I Learned](#-what-i-learned)
+- [🗂️ Folder Structure](#️-folder-structure)
+- [🔮 Future Enhancements](#-future-enhancements)
+- [📬 Contact](#-contact)
+- [🙏 Acknowledgements](#-acknowledgements)
+
+---
+
 ### 🚀 Tech Stack
 
 #### 👩‍💻 Languages & Frameworks:
@@ -41,6 +55,26 @@ You said:
 
 - 🧩 **[IT Online Tutorials](https://github.com/KajalMishra636/IT-Online-Tutorials)**  
   A responsive platform to browse and filter programming tutorials.
+
+
+
+## 🎯 Project Goal
+
+This website aims to:
+- 🌱 Educate visitors on the **health**, **ethical**, and **environmental** benefits of veganism.
+- 🧰 Demonstrate **HTML5/CSS3** capabilities in building a real-world responsive website.
+- 💡 Inspire lifestyle change with a positive, modern design aesthetic.
+
+---
+
+## ✨ Features
+
+✅ Fully responsive layout  
+✅ Clean and organized HTML/CSS structure  
+✅ Modern UI with attractive fonts and imagery  
+✅ Navigation menu with anchor links  
+✅ Thematic sections: health, ethics, sustainability
+
 
 ---
 
@@ -83,89 +117,7 @@ You said:
 
 
 
-<h1 align="center">🌿 Vegan Lifestyle Website</h1>
 
-<p align="center">
-  <img src="./screenshot.png" alt="Vegan Website Screenshot" width="90%" />
-</p>
 
-<p align="center">
-  A clean, responsive, and modern website built with 💚 HTML & CSS to promote the benefits of vegan living.
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive-Design-brightgreen?style=for-the-badge" />
-</p>
-
----
-
-## 🔗 Live Demo
-
-➡️ [Click here to view the live website](https://KajalMishra636.github.io/final-HTML-CSS-Project-Organisation--Vegan-/Phase%201/hello%20vegan/vegan/) *(If hosted via GitHub Pages)*
-
----
-
-## 🧭 Table of Contents
-
-- [📸 Preview](#-preview)
-- [🎯 Project Goal](#-project-goal)
-- [✨ Features](#-features)
-- [🔧 Tech Stack](#-tech-stack)
-- [🧠 What I Learned](#-what-i-learned)
-- [🗂️ Folder Structure](#️-folder-structure)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [📬 Contact](#-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="./screenshot.png" alt="Screenshot" width="80%">
-</p>
-
----
-
-## 🎯 Project Goal
-
-This website aims to:
-- 🌱 Educate visitors on the **health**, **ethical**, and **environmental** benefits of veganism.
-- 🧰 Demonstrate **HTML5/CSS3** capabilities in building a real-world responsive website.
-- 💡 Inspire lifestyle change with a positive, modern design aesthetic.
-
----
-
-## ✨ Features
-
-✅ Fully responsive layout  
-✅ Clean and organized HTML/CSS structure  
-✅ Modern UI with attractive fonts and imagery  
-✅ Navigation menu with anchor links  
-✅ Thematic sections: health, ethics, sustainability
-
----
-
-## 🔧 Tech Stack
-
-| Language | Description |
-|----------|-------------|
-| `HTML5`  | Semantic structure and layout |
-| `CSS3`   | Styling using Flexbox & media queries |
-| `Images` | Visual enhancement with royalty-free assets |
-
----
-
-## 🧠 What I Learned
-
-- Semantic HTML for better accessibility
-- Responsive layouts using Flexbox and media queries
-- Visual design principles: contrast, spacing, hierarchy
-- Project folder management and GitHub version control
-
----
-
-## 🗂️ Folder Structure
 
