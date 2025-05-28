@@ -8,7 +8,7 @@
 
 <!-- 🌟 Profile Picture with Frame -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/framed-avatar.png" width="200" alt="Kajal's Avatar with Frame" />
+  <img src="https://github.com/KajalMishra636/KajalMishra636/blob/main/passportsize.png" width="200" alt="Kajal's Avatar with Frame" />
 </p>
 
 
