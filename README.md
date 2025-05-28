@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=F797C1&center=true&vCenter=true&multiline=true&width=900&height=80&lines=✨+Hi+There%2C+I'm+Kajal+Mishra!+👩‍💻;💻+Full+Stack+Developer+%7C+Java+Enthusiast+☕;🎨+UI%2FUX+Lover+%7C+Tech+Explorer+🚀;🌱+React+%7C+Node.js+%7C+MongoDB+Learner;🔥+Let's+Build+Something+Awesome+Together!" alt="Typing SVG"/>
 </h2>
 
-<!-- Profile Picture with Glow -->
-<p align="center">
-  <img src="https://github.com/KajalMishra636/KajalMishra636/blob/main/passportsize.png" width="200" alt="Kajal Mishra Avatar with Glow" />
-</p>
+
 
 ---
 
