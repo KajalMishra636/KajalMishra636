@@ -8,7 +8,7 @@
 
 <!-- Profile Picture with Glow -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/Kajal_Glowing_Avatar.png" width="200" alt="Kajal Mishra Avatar with Glow" />
+  <img src="https://github.com/KajalMishra636/KajalMishra636/blob/main/passportsize.png" width="200" alt="Kajal Mishra Avatar with Glow" />
 </p>
 
 ---
