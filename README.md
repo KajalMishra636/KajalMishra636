@@ -108,10 +108,9 @@ This website aims to:
 
 > _"Code is poetry, and I'm writing mine every day."_ ✨    add
 
-![Status](https://img.shields.io/badge/Status-Actively%20Building-blueviolet)
-![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%7C%20Java%20%7C%20Python-green)
-![Learning](https://img.shields.io/badge/Currently_Learning-React%2C%20SpringBoot%2C%20MongoDB-orange)
-![Open to Work](https://img.shields.io/badge/Open_to-Collab%20%26%20Freelance-yellow)
+![Status](https://img.shields.io/badge/Status-Building%20Java%20Projects-blue)
+![Learning](https://img.shields.io/badge/Learning-Spring%20Boot%20%26%20JSP-orange)
+![Tech Stack](https://img.shields.io/badge/Tech-Java%20Frontend%20%26%20Backend-green)
 
 
 
