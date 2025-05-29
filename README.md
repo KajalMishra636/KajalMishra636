@@ -639,6 +639,10 @@ This website aims to:
 
 > _"Code is poetry, and I'm writing mine every day."_ ✨    add
 
+![Status](https://img.shields.io/badge/Status-Actively%20Developing-green)
+![Learning](https://img.shields.io/badge/Learning-React%20%2B%20Spring%20Boot-blue)
+![Open To Work](https://img.shields.io/badge/Open_to-Freelance%20Projects-orange)
+
 
 
 
