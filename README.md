@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Kajal Mishra</h1>
 <h3 align="center">A Passionate Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
