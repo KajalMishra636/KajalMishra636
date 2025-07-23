@@ -54,7 +54,7 @@
 ### 🧠 My Projects
 🚧 _More Coming Soon!_
 
-- 🧩 **[IT Online Tutorials](https://github.com/KajalMishra636/IT-Online-Tutorials)**  
+- 🧩 **[Hello Vegan]()**  
   A responsive platform to browse and filter programming tutorials.
 
 
