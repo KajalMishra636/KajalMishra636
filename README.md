@@ -93,9 +93,8 @@ This website aims to:
 </p>
 
 ---
-## 🐍 Contribution Game
-
-![snake](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg)
+## 👾 Space Invaders (SVG)
+![space](assets/space-invaders.svg)
 
 ---
 ### 📫 Connect With Me  
