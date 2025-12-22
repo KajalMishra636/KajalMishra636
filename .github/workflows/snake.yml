@@ -1,8 +1,9 @@
-permissions:
-  contents: write
+
 
 name: Generate Contribution Snake
 
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 0 * * *"
