@@ -49,6 +49,7 @@
 - **Portfolio Website** – Personal developer portfolio  
 
 ---
+
 ## 🐍 GitHub Contribution Snake
 
 > A visual game generated from my **real GitHub activity**.
@@ -61,6 +62,8 @@
 <p align="center">
   ⏳ <sub>This game evolves as my contributions grow. Check back later!</sub>
 </p>
+
+
 
 
 ---
