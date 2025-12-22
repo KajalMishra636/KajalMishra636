@@ -56,11 +56,12 @@
 
 ## 🐍 GitHub Contribution Snake
 
-> A visual game generated from my **real GitHub activity**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg"
-       alt="GitHub contribution snake game" />
+  <sub>Built from real commits. No fake flexing.</sub>
 </p>
 
 <p align="center">
