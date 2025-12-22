@@ -2,6 +2,20 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Kajal Mishra
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com
+    ?font=Inter
+    &size=22
+    &pause=1000
+    &color=FFFFFF
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Full+Stack+Developer;Java+Enthusiast;React+Learner;Tech+Explorer;Building+Every+Day" />
+</p>
+
+<hr style="border:1px solid #30363d"/>
+
 <h3 align="center">A Passionate Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 <!-- Add Typing SVG below -->
