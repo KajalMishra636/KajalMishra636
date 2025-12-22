@@ -76,17 +76,6 @@
 
 ---
 
----
-
-## 🎯 Developer Progress
-
-
-Java         ██████████░░░░░░ 70%
-JavaScript   █████████░░░░░░░ 65%
-React        ███████░░░░░░░░░ 50%
-Backend      ██████░░░░░░░░░░ 45%
-DSA          ████░░░░░░░░░░░░ 30%
-
 
 ### 🚀 Tech Stack
 
@@ -98,6 +87,15 @@ DSA          ████░░░░░░░░░░░░ 30%
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
+
+---
+## ⏱️ Weekly Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KajalMishra636&theme=react-dark&hide_border=true"/>
+</p>
+
+---
 
 
 #### 🛠️ Tools & Platforms:
