@@ -42,65 +42,25 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 My Projects
+- **Hello Vegan** – Responsive vegan awareness website  
+- **Weather App** – API-based real-time weather application  
+- **IT Online Tutorials** – Learning platform for IT concepts  
+- **Portfolio Website** – Personal developer portfolio  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📊 **InsightSync 2.0**
-> Next-generation CRM system for Indian businesses with real-time analytics and AI-driven insights.
+## 🎮 My Projects as a Coding Game
+> Every dot represents one real project.  
+> This game visualizes my learning journey as a developer.
 
-**Tech:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="assets/space-invaders.svg"
+       alt="Kajal's coding game showing projects as milestones"
+       width="100%"/>
+</p>
 
-🔧 CRM with churn prediction, dashboards & customer lifecycle intelligence.  
-🔗 https://github.com/KajalMishra636/InsightSync2.0
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 **Flixio Recommendation System**
-> Django-based movie recommendation engine using similarity algorithms.
-
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-📊 Content-based filtering using cosine similarity.  
-🔗 https://github.com/KajalMishra636/Flixio_Recommendation_System
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ♟️ **Chess Review**
-> Analyse Chess.com / Lichess games and generate move-by-move insights.
-
-**Tech:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-🧠 Chess match analysis with React + TypeScript.  
-🔗 https://github.com/KajalMishra636/chess_review
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 **Warehouse Management System API**
-> Smart warehouse backend for forecasting, stock optimization & alerts.
-
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-📦 Demand forecasting & reorder alerts.  
-🔗 https://github.com/KajalMishra636/Warehouse_Management_System_API
-
-</td>
-</tr>
-</table>
-
+---
 
 ### 🚀 Tech Stack
 
@@ -122,8 +82,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/-AI%20Tools-5D2EE8?style=flat&logo=ai&logoColor=white)
-
----
 
 
 ## 🎯 Project Goal
