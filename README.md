@@ -49,26 +49,10 @@
 - **Portfolio Website** – Personal developer portfolio  
 
 ---
-## 🎮 My Projects as a Coding Game
-> Every dot represents one real project.  
-> This game visualizes my learning journey as a developer.
-
-<p align="center">
-  <img src="assets/space-invaders.svg"
-       alt="Kajal's coding game showing projects as milestones"
-       width="100%"/>
-</p>
 
 ---
 
-## 🐍 GitHub Contribution Game
-> Generated from my **real GitHub activity**  
-> Green squares = commits • The snake consumes progress over time.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg"
-       alt="GitHub contribution snake" />
-</p>
 
 
 
