@@ -76,17 +76,17 @@
 
 ---
 
-### 🟣 B. “Did You Know?” Auto-Rotating Facts (Light, Smart)
-
-```md
-## 🧠 Did You Know?
-
-- I build projects before watching tutorials  
-- I break code daily — that’s how I learn  
-- I prefer logic over libraries  
-- Clean UI > Fancy UI  
-
 ---
+
+## 🎯 Developer Progress
+
+
+Java         ██████████░░░░░░ 70%
+JavaScript   █████████░░░░░░░ 65%
+React        ███████░░░░░░░░░ 50%
+Backend      ██████░░░░░░░░░░ 45%
+DSA          ████░░░░░░░░░░░░ 30%
+
 
 ### 🚀 Tech Stack
 
