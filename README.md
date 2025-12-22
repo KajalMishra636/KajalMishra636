@@ -58,10 +58,10 @@
        alt="GitHub contribution snake game" />
 </p>
 
-
 <p align="center">
   ⏳ <sub>This game evolves as my contributions grow. Check back later!</sub>
 </p>
+
 
 ---
 
