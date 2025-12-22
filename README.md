@@ -42,19 +42,7 @@
 
 ---
 
-## 🧭 Table of Contents
 
-- [📸 Preview](#-preview)
-- [🎯 Project Goal](#-project-goal)
-- [✨ Features](#-features)
-- [🔧 Tech Stack](#-tech-stack)
-- [🧠 What I Learned](#-what-i-learned)
-- [🗂️ Folder Structure](#️-folder-structure)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [📬 Contact](#-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
-
----
 
 ### 🚀 Tech Stack
 
