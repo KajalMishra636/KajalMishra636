@@ -93,8 +93,11 @@ This website aims to:
 </p>
 
 ---
-## 👾 Space Invaders (SVG)
-![space](assets/space-invaders.svg)
+<p align="center">
+  <img src="assets/space-invaders.svg"
+       alt="Kajal's coding game showing projects as milestones"
+       width="100%"/>
+</p>
 
 ---
 ### 📫 Connect With Me  
