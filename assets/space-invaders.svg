@@ -1,0 +1,11 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" fill="#0d1117"></rect>
+  <g fill="#39ff14">
+    <rect x="50" y="20" width="20" height="10">
+      <animate attributeName="x" from="50" to="330" dur="4s" repeatCount="indefinite"></animate>
+    </rect>
+    <rect x="100" y="20" width="20" height="10">
+      <animate attributeName="x" from="100" to="20" dur="4s" repeatCount="indefinite"></animate>
+    </rect>
+  </g>
+</svg>
