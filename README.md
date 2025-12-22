@@ -54,6 +54,9 @@
 
 ---
 
+
+
+
 ## 🐍 Live Game Board (Real GitHub Data)
 
 <p align="center">
@@ -64,8 +67,6 @@
 <p align="center">
   <sub>The snake grows only when I commit. No commits, no mercy.</sub>
 </p>
-
-
 
 
 
