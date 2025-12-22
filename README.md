@@ -54,19 +54,16 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+### 🐍 Live Game Board (Real GitHub Data)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg"
+       alt="GitHub Contribution Snake"/>
 </p>
 
 <p align="center">
-  <sub>Built from real commits. No fake flexing.</sub>
+  <sub>The snake grows only when I commit. No commits, no mercy.</sub>
 </p>
 
-<p align="center">
-  ⏳ <sub>This game evolves as my contributions grow. Check back later!</sub>
-</p>
 
 
 
