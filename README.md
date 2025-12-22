@@ -53,12 +53,23 @@
 ## 🎮 My Projects as a Coding Game
 > Every dot represents one real project.  
 > This game visualizes my learning journey as a developer.
+---
+
+## 🐍 GitHub Contribution Game
+
+> Generated from my **real GitHub activity**.  
+> Green squares = commits • The snake “consumes” progress over time.
 
 <p align="center">
-  <img src="assets/space-invaders.svg"
-       alt="Kajal's coding game showing projects as milestones"
-       width="100%"/>
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg#gh-light-mode-only"
+       alt="GitHub contribution snake (light mode)" />
+
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake-dark.svg#gh-dark-mode-only"
+       alt="GitHub contribution snake (dark mode)" />
 </p>
+
 
 ---
 
