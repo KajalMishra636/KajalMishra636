@@ -42,6 +42,64 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 **InsightSync 2.0**
+> Next-generation CRM system for Indian businesses with real-time analytics and AI-driven insights.
+
+**Tech:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+🔧 CRM with churn prediction, dashboards & customer lifecycle intelligence.  
+🔗 https://github.com/KajalMishra636/InsightSync2.0
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 **Flixio Recommendation System**
+> Django-based movie recommendation engine using similarity algorithms.
+
+**Tech:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+📊 Content-based filtering using cosine similarity.  
+🔗 https://github.com/KajalMishra636/Flixio_Recommendation_System
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ♟️ **Chess Review**
+> Analyse Chess.com / Lichess games and generate move-by-move insights.
+
+**Tech:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+🧠 Chess match analysis with React + TypeScript.  
+🔗 https://github.com/KajalMishra636/chess_review
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 **Warehouse Management System API**
+> Smart warehouse backend for forecasting, stock optimization & alerts.
+
+**Tech:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+📦 Demand forecasting & reorder alerts.  
+🔗 https://github.com/KajalMishra636/Warehouse_Management_System_API
+
+</td>
+</tr>
+</table>
 
 
 ### 🚀 Tech Stack
@@ -67,13 +125,6 @@
 
 ---
 
-### 🧠 My Projects
-🚧 _More Coming Soon!_
-
-- 🧩 **[Hello Vegan]()**  
-  A responsive platform to browse and filter programming tutorials.
-
-
 
 ## 🎯 Project Goal
 
@@ -82,15 +133,6 @@ This website aims to:
 - 🧰 Demonstrate **HTML5/CSS3** capabilities in building a real-world responsive website.
 - 💡 Inspire lifestyle change with a positive, modern design aesthetic.
 
----
-
-## ✨ Features
-
-✅ Fully responsive layout  
-✅ Clean and organized HTML/CSS structure  
-✅ Modern UI with attractive fonts and imagery  
-✅ Navigation menu with anchor links  
-✅ Thematic sections: health, ethics, sustainability
 
 
 ---
