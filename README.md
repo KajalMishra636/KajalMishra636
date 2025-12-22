@@ -102,12 +102,7 @@ This website aims to:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KajalMishra636&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-<p align="center">
-  <img src="assets/space-invaders.svg"
-       alt="Kajal's coding game showing projects as milestones"
-       width="100%"/>
-</p>
+
 
 ---
 ### 📫 Connect With Me  
