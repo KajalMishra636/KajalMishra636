@@ -69,9 +69,10 @@
 > Green squares = commits • The snake consumes progress over time.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg#gh-light-mode-only"(https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg
-) />
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg#gh-light-mode-only"
+       alt="GitHub contribution snake light mode" />
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake-dark.svg#gh-dark-mode-only"
+       alt="GitHub contribution snake dark mode" />
 </p>
 
 
