@@ -1,25 +1,19 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: KajalMishra636
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+          outputs: dist/snake.svg
 
-      - name: Publish snake
+      - name: Publish
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
