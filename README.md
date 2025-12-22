@@ -54,7 +54,8 @@
 
 ---
 
-### 🐍 Live Game Board (Real GitHub Data)
+## 🐍 Live Game Board (Real GitHub Data)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg"
        alt="GitHub Contribution Snake"/>
@@ -63,6 +64,7 @@
 <p align="center">
   <sub>The snake grows only when I commit. No commits, no mercy.</sub>
 </p>
+
 
 
 
