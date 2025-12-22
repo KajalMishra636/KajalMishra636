@@ -51,6 +51,25 @@
 ---
 
 ---
+---
+
+## 🐍 GitHub Contribution Snake
+
+> A visual game generated from my **real GitHub activity**.  
+> 🟢 Green squares = commits  
+> 🐍 The snake moves through my contribution graph over time  
+> 🔄 Updates automatically as I keep building and committing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/snake.svg"
+       alt="GitHub contribution snake game" />
+</p>
+
+<p align="center">
+  ⏳ <sub>This game evolves as my contributions grow. Check back later!</sub>
+</p>
+
+---
 
 
 
