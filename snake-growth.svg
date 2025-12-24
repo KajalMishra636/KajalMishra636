@@ -1,0 +1,138 @@
+<svg width="960" height="420" viewBox="0 0 960 420" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg { fill:#0d1117; }
+
+    .title {
+      fill:#c9d1d9;
+      font: 22px system-ui, sans-serif;
+      font-weight:700;
+    }
+    .sub {
+      fill:#8b949e;
+      font: 13px system-ui, sans-serif;
+    }
+    .small {
+      fill:#8b949e;
+      font: 11px system-ui, sans-serif;
+    }
+
+    .cell { fill:#161b22; rx:3; ry:3; }
+    .low { fill:#0e4429; }
+    .mid { fill:#26a641; }
+    .high { fill:#39d353; }
+
+    .snake-body { fill:#a371f7; }
+    .snake-head { fill:#f778ba; }
+  </style>
+
+  <rect width="100%" height="100%" class="bg"></rect>
+
+  <!-- HEADER -->
+  <text x="480" y="32" text-anchor="middle" class="title">
+    🐍 Contribution Snake — Growth Over Time
+  </text>
+  <text x="480" y="56" text-anchor="middle" class="sub">
+    Zig-zag movement • Length increases with every row
+  </text>
+
+  <!-- GRID -->
+  <g transform="translate(140,100)">
+    <!-- 4 rows -->
+    <!-- row 1 -->
+    <rect x="0" y="0" width="14" height="14" class="cell"></rect>
+    <rect x="20" y="0" width="14" height="14" class="low"></rect>
+    <rect x="40" y="0" width="14" height="14" class="mid"></rect>
+    <rect x="60" y="0" width="14" height="14" class="high"></rect>
+    <rect x="80" y="0" width="14" height="14" class="mid"></rect>
+    <rect x="100" y="0" width="14" height="14" class="low"></rect>
+    <rect x="120" y="0" width="14" height="14" class="cell"></rect>
+    <rect x="140" y="0" width="14" height="14" class="cell"></rect>
+    <rect x="160" y="0" width="14" height="14" class="mid"></rect>
+    <rect x="180" y="0" width="14" height="14" class="high"></rect>
+    <rect x="200" y="0" width="14" height="14" class="mid"></rect>
+    <rect x="220" y="0" width="14" height="14" class="cell"></rect>
+
+    <!-- row 2 -->
+    <rect x="0" y="20" width="14" height="14" class="cell"></rect>
+    <rect x="20" y="20" width="14" height="14" class="mid"></rect>
+    <rect x="40" y="20" width="14" height="14" class="high"></rect>
+    <rect x="60" y="20" width="14" height="14" class="mid"></rect>
+    <rect x="80" y="20" width="14" height="14" class="low"></rect>
+    <rect x="100" y="20" width="14" height="14" class="cell"></rect>
+    <rect x="120" y="20" width="14" height="14" class="cell"></rect>
+    <rect x="140" y="20" width="14" height="14" class="mid"></rect>
+    <rect x="160" y="20" width="14" height="14" class="high"></rect>
+    <rect x="180" y="20" width="14" height="14" class="mid"></rect>
+    <rect x="200" y="20" width="14" height="14" class="low"></rect>
+    <rect x="220" y="20" width="14" height="14" class="cell"></rect>
+
+    <!-- row 3 -->
+    <rect x="0" y="40" width="14" height="14" class="cell"></rect>
+    <rect x="20" y="40" width="14" height="14" class="low"></rect>
+    <rect x="40" y="40" width="14" height="14" class="mid"></rect>
+    <rect x="60" y="40" width="14" height="14" class="high"></rect>
+    <rect x="80" y="40" width="14" height="14" class="mid"></rect>
+    <rect x="100" y="40" width="14" height="14" class="low"></rect>
+    <rect x="120" y="40" width="14" height="14" class="cell"></rect>
+    <rect x="140" y="40" width="14" height="14" class="cell"></rect>
+    <rect x="160" y="40" width="14" height="14" class="mid"></rect>
+    <rect x="180" y="40" width="14" height="14" class="high"></rect>
+    <rect x="200" y="40" width="14" height="14" class="mid"></rect>
+    <rect x="220" y="40" width="14" height="14" class="cell"></rect>
+
+    <!-- row 4 -->
+    <rect x="0" y="60" width="14" height="14" class="cell"></rect>
+    <rect x="20" y="60" width="14" height="14" class="mid"></rect>
+    <rect x="40" y="60" width="14" height="14" class="high"></rect>
+    <rect x="60" y="60" width="14" height="14" class="mid"></rect>
+    <rect x="80" y="60" width="14" height="14" class="low"></rect>
+    <rect x="100" y="60" width="14" height="14" class="cell"></rect>
+    <rect x="120" y="60" width="14" height="14" class="cell"></rect>
+    <rect x="140" y="60" width="14" height="14" class="mid"></rect>
+    <rect x="160" y="60" width="14" height="14" class="high"></rect>
+    <rect x="180" y="60" width="14" height="14" class="mid"></rect>
+    <rect x="200" y="60" width="14" height="14" class="low"></rect>
+    <rect x="220" y="60" width="14" height="14" class="cell"></rect>
+  </g>
+
+  <!-- SNAKE (GROWS PER ROW) -->
+  <g>
+    <!-- body (longer trail) -->
+    <rect x="140" y="100" width="14" height="14" rx="3" class="snake-body"></rect>
+    <rect x="120" y="100" width="14" height="14" rx="3" class="snake-body"></rect>
+    <rect x="100" y="100" width="14" height="14" rx="3" class="snake-body"></rect>
+    <rect x="80" y="100" width="14" height="14" rx="3" class="snake-body"></rect>
+    <rect x="60" y="100" width="14" height="14" rx="3" class="snake-body"></rect>
+
+    <!-- head -->
+    <rect x="160" y="100" width="14" height="14" rx="3" class="snake-head"></rect>
+
+    <!-- zig-zag + downward path -->
+    <animateMotion dur="18s" repeatCount="indefinite" path="
+        M 0 0
+        L 220 0
+        L 220 20
+        L 0 20
+        L 0 40
+        L 220 40
+        L 220 60
+        L 0 60
+      "></animateMotion>
+  </g>
+
+  <!-- DEV METRICS -->
+  <text x="480" y="310" text-anchor="middle" class="sub">
+    Growth model: commits ↑ • skills ↑ • complexity ↑
+  </text>
+
+  <text x="480" y="335" text-anchor="middle" class="sub">
+    Current focus: Java • OOP • SOLID • Clean Architecture
+  </text>
+
+  <!-- FOOTER -->
+  <text x="480" y="370" text-anchor="middle" class="small">
+    Code doesn’t grow overnight — it grows line by line
+  </text>
+
+</svg>
