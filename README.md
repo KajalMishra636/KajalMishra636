@@ -49,7 +49,8 @@
 - **Portfolio Website** – Personal developer portfolio  
 
 ---
-![Contribution Pac-Man]([![Contribution Pac-Man](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/pacman.svg)
+![Developer Activity](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/pacman.svg)
+
 
 
 
