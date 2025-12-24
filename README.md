@@ -51,28 +51,12 @@
 ---
 ![Developer Activity](https://github.com/KajalMishra636/KajalMishra636/blob/main/pacman.svg)
 
-
-
-![Contribution Snake](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/snake-growth.svg)
-
-
-
-
 ---
-
-
 
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub contribution snake animation" />
-</p>
-
-
-
-
+![Contribution Snake](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/snake-growth.svg)
 
 
 
