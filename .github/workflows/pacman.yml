@@ -22,3 +22,4 @@ jobs:
           plugin_pacman_days: 30
           plugin_pacman_speed: 2
           plugin_pacman_saturation: 0.4
+          output_action: commit
