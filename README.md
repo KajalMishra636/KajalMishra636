@@ -49,7 +49,8 @@
 - **Portfolio Website** – Personal developer portfolio  
 
 ---
-![Developer Activity](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/pacman.svg)
+![Interactive Full Stack System](https://raw.githubusercontent.com/KajalMishra636/KajalMishra636/main/game.svg)
+
 
 
 ---
