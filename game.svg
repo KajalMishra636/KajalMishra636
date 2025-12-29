@@ -1,0 +1,93 @@
+<svg width="900" height="420" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="420" rx="26" fill="#0d1117"></rect>
+
+  <!-- Title -->
+  <text x="450" y="34" fill="#58a6ff" font-size="22" text-anchor="middle" font-family="monospace">
+    Full-Stack System Architecture
+  </text>
+
+  <text x="450" y="60" fill="#c9d1d9" font-size="12" text-anchor="middle" font-family="monospace">
+    UI → API → Logic → Database → Response → Deploy
+  </text>
+
+  <!-- FRONTEND -->
+  <rect x="40" y="120" width="200" height="90" rx="18" fill="#21262d"></rect>
+  <text x="140" y="150" fill="#58a6ff" text-anchor="middle" font-family="monospace">
+    FRONTEND
+  </text>
+  <text x="140" y="172" fill="#8b949e" font-size="10" text-anchor="middle">
+    React • UI • State
+  </text>
+
+  <!-- API -->
+  <rect x="270" y="120" width="200" height="90" rx="18" fill="#21262d"></rect>
+  <text x="370" y="150" fill="#39d353" text-anchor="middle" font-family="monospace">
+    API LAYER
+  </text>
+  <text x="370" y="172" fill="#8b949e" font-size="10" text-anchor="middle">
+    REST • JSON • Auth
+  </text>
+
+  <!-- BACKEND -->
+  <rect x="500" y="120" width="200" height="90" rx="18" fill="#21262d"></rect>
+  <text x="600" y="150" fill="#f0883e" text-anchor="middle" font-family="monospace">
+    BACKEND
+  </text>
+  <text x="600" y="172" fill="#8b949e" font-size="10" text-anchor="middle">
+    Business Logic
+  </text>
+
+  <!-- DATABASE -->
+  <rect x="730" y="120" width="140" height="90" rx="18" fill="#21262d"></rect>
+  <text x="800" y="150" fill="#ff7b72" text-anchor="middle" font-family="monospace">
+    DATABASE
+  </text>
+  <text x="800" y="172" fill="#8b949e" font-size="10" text-anchor="middle">
+    SQL / NoSQL
+  </text>
+
+  <!-- FLOW LINES -->
+  <line x1="240" y1="165" x2="270" y2="165" stroke="#30363d" stroke-width="2"></line>
+  <line x1="470" y1="165" x2="500" y2="165" stroke="#30363d" stroke-width="2"></line>
+  <line x1="700" y1="165" x2="730" y2="165" stroke="#30363d" stroke-width="2"></line>
+
+  <!-- AUTH -->
+  <rect x="180" y="240" width="200" height="80" rx="16" fill="#161b22"></rect>
+  <text x="280" y="272" fill="#39d353" text-anchor="middle" font-family="monospace">
+    AUTH
+  </text>
+  <text x="280" y="292" fill="#8b949e" font-size="10" text-anchor="middle">
+    JWT • Sessions
+  </text>
+
+  <!-- ERROR HANDLING -->
+  <rect x="420" y="240" width="200" height="80" rx="16" fill="#161b22"></rect>
+  <text x="520" y="272" fill="#ff7b72" text-anchor="middle" font-family="monospace">
+    ERROR FLOW
+  </text>
+  <text x="520" y="292" fill="#8b949e" font-size="10" text-anchor="middle">
+    4xx / 5xx
+  </text>
+
+  <!-- DEPLOY -->
+  <rect x="660" y="240" width="200" height="80" rx="16" fill="#161b22"></rect>
+  <text x="760" y="272" fill="#58a6ff" text-anchor="middle" font-family="monospace">
+    DEPLOY
+  </text>
+  <text x="760" y="292" fill="#8b949e" font-size="10" text-anchor="middle">
+    Cloud / CI-CD
+  </text>
+
+  <!-- DATA PACKET -->
+  <circle r="5" fill="#58a6ff">
+    <animateMotion dur="3.5s" repeatCount="indefinite" path="M140 210 L370 210 L600 210 L800 210 L520 280 L280 280 Z"></animateMotion>
+  </circle>
+
+  <!-- Footer -->
+  <text x="450" y="405" fill="#8b949e" font-size="10" text-anchor="middle" font-family="monospace">
+    Complete full-stack thinking • GitHub profile
+  </text>
+
+</svg>
